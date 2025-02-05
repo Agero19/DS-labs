@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Ignore environment variables file
+.env
+
+# Ignore database files (if using SQLite)
+*.sqlite3
+*.db
+
+# Ignore Python cache
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore IDE/project-specific files
+.vscode/
+.idea/
+*.swp
+.DS_Store
